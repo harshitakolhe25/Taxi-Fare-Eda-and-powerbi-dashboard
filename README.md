@@ -6,6 +6,8 @@ This project is an end-to-end Data Analytics project focused on analyzing taxi f
 
 The project demonstrates practical data analysis skills using Python and Power BI.
 
+----
+
 🎯 Objectives
 
 - Clean and preprocess the taxi fare dataset.
@@ -13,6 +15,8 @@ The project demonstrates practical data analysis skills using Python and Power B
 - Identify trends and patterns affecting taxi fares.
 - Visualize insights using charts and graphs.
 - Build an interactive Power BI dashboard.
+
+----
 
 🛠️ Technologies Used
 
@@ -24,6 +28,8 @@ The project demonstrates practical data analysis skills using Python and Power B
 - Seaborn
 - Power BI
 
+----
+
 🔍 Data Preprocessing
 
 The following preprocessing steps were performed:
@@ -34,6 +40,8 @@ The following preprocessing steps were performed:
 - Detected and treated outliers
 - Feature engineering
 - Data validation
+
+----
 
 📊 Exploratory Data Analysis (EDA)
 
@@ -47,6 +55,8 @@ The analysis includes:
 - Statistical summary
 - Data visualizations
 
+----
+
 📈 Power BI Dashboard
 
 The interactive dashboard provides:
@@ -59,12 +69,16 @@ The interactive dashboard provides:
 - Visual comparisons
 - Business insights
 
+----
+
 💡 Key Insights
 
 - Identified fare distribution patterns.
 - Analyzed relationships between trip features and fare amount.
 - Observed passenger travel trends.
 - Created interactive visualizations for better decision-making.
+
+----
 
 🚀 Skills Demonstrated
 
@@ -76,11 +90,3 @@ The interactive dashboard provides:
 - Business Insight Generation
 - Python Programming
 
-
-
-B.Tech (AI & Machine Learning)
-Minor: Data Science
-
----
-
-⭐ If you found this project useful, feel free to star the repository.
